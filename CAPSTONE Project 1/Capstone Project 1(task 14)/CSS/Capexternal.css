@@ -1,0 +1,667 @@
+*{
+
+	margin: 0px;
+	padding: 0px;
+	box-sizing:border-box ;
+
+}
+
+.div1{
+
+
+	height: 100px;
+	width:all;
+	background-color: ghostwhite;
+
+}
+.searchbar{
+     margin-top: 20px;
+	font-size: 30px;
+	margin-left: 40px;
+	height: 50px;
+	width: 300px;
+}
+
+.bars
+{
+     margin-left: 1450px;
+	  text-align: right;
+	  color: black;
+}
+.div2{
+
+display: flex;
+height: 700px;
+width:all;
+background-color: red;
+
+
+
+}
+.adiv1{
+   flex: 40;
+background-color: black;
+background-image: url('../Images/anthropomorphic-robot-indoors.jpg');
+background-size: cover;
+
+
+
+}
+.adiv2{
+    flex: 60;
+ 
+ background-color: black;
+
+
+
+
+}
+.adiv21{
+
+    margin-left: 20px;
+	height: 100px;
+	width:15px;
+	background-color: lightblue;
+	float: left;
+	margin-top:100px;
+
+}
+.dtext1{
+	display: inline;
+      margin-left: 30px;
+	font-size:75px;
+	color: white;
+	display: justify;
+
+
+
+
+}
+.adiv22{
+       height: 180px;
+       width: 600px;
+	margin-top: 100px;
+	margin-left: 30px;
+	background-color:black;
+	float: left;
+
+}
+.adiv23{
+
+     padding-left: 10px;
+
+	height: 300px;
+	width: 600px;
+	margin-left: 55px;
+	margin-top: 300px;
+	background-color: black;
+
+}
+.dtext2{
+
+   font-size:23px;
+   color: white;
+
+
+}
+.div3{
+      
+
+	   height: 500px;
+	   width:all;
+	   background-color: white;
+
+}
+.adiv32{
+	height: 450px;
+	width:all;
+
+      background-color: red;
+       margin-top: 50px;
+       margin-bottom:50px;
+       margin-right:120px;
+       margin-left:120px;
+       display: flex;
+
+     
+
+}
+
+.adiv321{  flex: 1;
+	background-color: white;
+
+
+
+
+}
+.adiv322{  flex: 1;
+	background-image: url('../Images/futuristic-5g-wireless-network-ai-robot-hand-tap-wifi-icon.jpg');
+	background-image: cover;
+
+
+
+
+}
+.dtext3{
+
+	padding-left: 70px;
+	color: black;
+
+}
+.dtext32{
+  display: justify;
+     font-size: 20px;
+	padding-left: 70px;
+	color: black;
+	
+}
+.div4{
+
+
+	height: 700px;
+	width:all;
+	background-color:white ;
+
+	display: flex;
+
+}
+.adiv41{
+      margin-left: 70px;
+	flex:1;
+
+	background-color: black ;
+
+}
+.adiv42{
+     margin-right: 70px; 
+	flex:1;
+	background-color: lightblue;
+
+}
+
+.adiv411{
+   
+     display: flex;
+     flex-direction: column;
+margin-top: 110px;
+margin-left: 110px;
+
+	height:500px;
+
+	width: auto;
+	background-color: pink;
+
+}
+.adiv4111{
+          flex:40;
+ background-color: black;
+
+
+
+}
+.adiv4112{
+          flex:60;
+          display: flex;
+
+          background-color: white;
+
+
+}
+.txt{
+
+	color: white;
+
+}
+.dtext4{
+    
+font-size: 20px;
+color: white
+
+}
+.img1{
+	flex: 1;
+
+max-width:33.33%;
+	height: auto;
+	
+}
+
+.adiv421{
+	display: flex;
+     flex-direction: column;
+margin-top: 110px;
+margin-right: 110px;
+
+	height:500px;
+
+	width: auto;
+	background-color: white; 
+}
+
+
+.adiv4211{
+          flex:36;
+ background-color: lightblue;
+
+
+
+}
+.adiv4212{
+          flex:64;
+          display: flex;
+
+          background-color: white;
+
+
+}
+.img2{
+
+
+	flex: 1;
+
+max-width:33.33%;
+	height: auto;
+}
+
+.div5{
+
+	height: 750px;
+	width: all;
+	background-color: white;
+
+
+
+
+}
+.adiv51{
+        height: 600px;
+        width:all;
+      margin-top: 100px;
+      margin-right:200px;
+      margin-left: 200px;
+      background-color: white;
+ display: flex;
+
+
+
+}
+ 
+ .adiv52{
+ 		height:150px;
+ 		width: all;
+ 		background-color: white;
+ 		margin-top: 10px;
+       
+
+
+
+
+ }
+ .adiv511{
+       flex: 1;
+           margin:10px;
+         
+      max-width: 33.33%;
+      	 background-color: lightblue;
+      	 height: 600px;
+      	 width: auto;
+
+display: flex;
+flex-direction: column;
+
+
+ }
+
+
+ .adiv5111{
+height: auto;
+       flex: 1;
+       margin-bottom: 5px;
+    background-color:lightblue;
+   display: flex;
+
+ }
+ .adiv5112{
+
+ 	height: auto;
+margin-top: 5px;
+       flex: 1;
+        background-color: white;
+        display: flex;
+     
+       
+
+
+ }
+ .adiv5113{
+height: auto;
+width: auto;
+   flex: 1;
+   background-image: url('../Images/medium-shot-model-wearing-chain-necklace.jpg');
+ 
+ }
+ .dtext5{
+    
+    margin-top:60px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-bottom:60px;
+    color: black;
+    display: justify;
+    font-size: 34px;
+
+
+
+
+ }
+
+ .imgg1{
+ 	height: auto;
+ 	width: auto;
+ 	background-image: url('../Images/robots.jpg');
+ 	background-size: cover;
+ 	border-top: 20px solid white;
+ 	flex: 1;
+
+
+ }
+ .txtt{
+ 	margin:35px;
+    font-size: 70px;
+    color: honeydew;
+}
+.more
+{  border: 1px solid lightblue;
+   margin-top: 30px;
+  height: 50px;
+   width: 200px;
+   background-color: lightblue;
+}
+.div6{
+	padding-top: 80px;
+ width: all;
+ height: 500px;
+ background-color: #262626;
+ box-sizing: border-box;
+ padding-top: 100px;
+
+}
+.div61{
+    
+ height: 330px;
+ width: auto;
+ margin-left: 150px;
+ margin-right:150px;
+ margin-bottom: 80px;
+
+background-color: #262626;
+display: flex;
+
+}
+
+.a{
+
+    padding:10px;
+	flex: 1;
+	height: auto;
+	max-width: 33.33%;
+	background-color: #262626;
+	margin:10px;
+
+}
+
+i{
+	
+	font-size: 60px;
+	color: navajowhite;
+
+}
+.ltext{
+      
+
+
+     
+	font-size: 35px;
+	color: white;
+}
+.x{
+	font-size: 50px;
+color: navajowhite;
+
+
+}
+.div7{
+ height: 300px;
+ width: all;
+ background-color: white;
+ text-align: center;
+
+
+}
+.xy{
+	margin-top: 35px;
+  font-size: 60px;
+	color: sandybrown;
+}
+
+.textg{
+    font-size: 25px;
+	color: black;
+}
+.div8{
+
+	height: 500px;
+	width: auto;
+	background-color: blue;
+	margin-left: 140px;
+	margin-right: 140px;
+	margin-bottom: 70px;
+	display: flex;
+}
+.div81{
+    height: auto;
+    flex: 1;
+    max-width: 33.33%;
+    background-color: red;
+    background-image:url('../Images/robot-doing-peace-sign.jpg');
+  background-size: cover;
+
+}
+.div82{
+    height: auto;
+    flex: 1;
+    max-width: 33.33%;
+    background-color: green;
+     background-image:url('../Images/reporter-robot-with-microphone.jpg');
+  background-size: cover;
+}
+.div83{
+    height: auto;
+    flex: 1;
+    max-width: 33.33%;
+    background-color: yellow;
+     background-image:url('../Images/robot-with-tablet.jpg');
+  background-size: cover;
+}
+.div9{
+
+	height:350px;
+	width: all;
+   background-color: black;
+  
+
+
+}
+.div91{
+    margin-top: 125px;
+    margin-left: 100px;
+	height: 200px;
+	width: 10px;
+	background-color: gold;
+	float: left;	
+
+}
+.div92{
+
+	margin-top: 100px;
+    margin-left: 100px;
+	height: 200px;
+	width:1000px;
+	background-color: black;
+	float: left;
+
+}
+.redtext1{
+	font-size: 100px;
+	color: gold;
+
+}
+.redtext2{
+	font-size: 20px;
+	color: papayawhip;
+
+}
+.redtext3{
+	text-align: right;
+	margin-right: 30px;
+font-size: 50px;
+color: white;
+
+}
+.div10{
+
+	height: 1000px;
+	width: all;
+	background-color: lightblue;
+	padding-top: 150px;
+
+
+}
+.div101{
+
+height:700px;
+width: auto;
+
+margin-left:150px;
+margin-bottom:100px;
+margin-right:200px;
+background-color: lightblue;
+display: flex;
+
+}
+.div1011{
+	flex: 70;
+    background-color: white;
+	background-image: url('../Images/mhlnews_7388_robotics_0-696x392.png');
+	background-size: cover;
+
+}
+.div1012{
+
+	flex: 30;
+	background-color:paleturquoise;
+    padding:50px;
+}
+.bluetext1{
+	font-size: 40px;
+	color: black;
+    
+}
+.bluetext2{
+	font-size: 25px;
+	color: black;
+	
+}
+.blueselect{
+
+	background-color: lightblue;
+   text-align: center;
+   height: 50px;
+   width: 200px;
+   border: 1px solid lightblue;
+}
+
+.divx1{
+
+	height: 800px;
+	width: all;
+	background-color: white;
+	margin-top: 200px;
+	
+
+}
+.divx11{
+height: 700px;
+width: auto;
+background-color: ghostwhite;
+display: flex;
+margin:200px;
+}
+.divx111{ flex: 1;
+
+ background-image: url('../Images/NEWS-Active-Silicon-AI-Series-Robot-Doctor-diagnostics800x533.jpg');
+background-size: cover;
+}
+.divx112{
+	background-color: ghostwhite;
+	flex: 1;
+	padding-top: 120px;
+	padding-right: 10px;
+	padding-left: 40px;
+
+}
+.whitetext1{
+	font-size: 35px;
+}
+.whitetext2{
+	font-size: 70px;
+}
+.whitetext3{
+	font-size: 30px;
+	display: justify;
+}
+.whitebutton{
+	height: 50px;
+	width: 200px;
+	background-color: lightblue;
+	border: 1px solid lightblue;
+
+}
+.final{
+	height: 450px;
+	width: auto;
+	background-color: hotpink;
+	margin-top: 150px;
+	display: flex;
+	flex-direction: column;
+}
+.final1{
+	flex: 70;
+	background-color:#002F5C;
+
+}
+.final2{
+
+	flex: 30;
+	background-color: #262626;
+
+}
+.finaltext1{
+	margin-top: 100px;
+    text-align: center;
+	font-size: 20px;
+	color: white;
+
+}
+.finaltext2{
+	font-size: 15px;
+	color: white;
+	margin-top: 50px;
+}
+.sigh{
+ 	margin-top: 40px;
+	text-align: right;
+	color: gold;
+	font-size: 15px;
+	margin-right: 15px;
+}
