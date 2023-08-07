@@ -349,7 +349,7 @@ width: auto;
     margin-bottom:60px;
     color: black;
     display: justify;
-    font-size: 24px;
+    font-size: 25px;
 
 
 
@@ -422,7 +422,7 @@ i{
 
 
      
-	font-size: 35px;
+	font-size: 25px;
 	color: white;
 }
 .x{
@@ -569,7 +569,7 @@ display: flex;
     
 }
 .bluetext2{
-	font-size: 17px;
+	font-size: 15px;
 	color: black;
 	
 }
@@ -618,7 +618,8 @@ background-size: cover;
 	font-size: 70px;
 }
 .whitetext3{
-	font-size: 30px;
+	font-size: 20px;
+	margin-bottom: 10px;
 	display: justify;
 }
 .whitebutton{
